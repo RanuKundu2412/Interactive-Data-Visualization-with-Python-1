@@ -1,4 +1,4 @@
-Country,Code,Year,Energy_SourceTraditional biofuels (terrawatt-hours),"Energy_SourceOther renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)",Energy_SourceWind (Terawatt-hours),Energy_SourceSolar PV (Terawatt-hours),Energy_SourceHydropower (TWh)
+Country,Code,Year,ConsumptionTraditional biofuels (terrawatt-hours),"ConsumptionOther renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)",ConsumptionWind (Terawatt-hours),ConsumptionSolar PV (Terawatt-hours),ConsumptionHydropower (TWh)
 Algeria,DZA,1965,,0.0,0.0,0.0,
 Algeria,DZA,1966,,0.0,0.0,0.0,
 Algeria,DZA,1967,,0.0,0.0,0.0,
