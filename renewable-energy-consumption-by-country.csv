@@ -1,4 +1,4 @@
-"Country","Code","Year","Traditional biofuels (terrawatt-hours)","Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)","Wind (terawatt-hours)","Solar PV (terawatt-hours)","Hydropower (terawatt-hours)"
+"Country","Code","Year","Traditional biofuels","Other renewables (modern biofuels, geothermal, wave & tidal)","Wind","Solar PV","Hydropower"
 "Algeria","DZA","1965","","0.0","0.0","0.0",""
 "Algeria","DZA","1966","","0.0","0.0","0.0",""
 "Algeria","DZA","1967","","0.0","0.0","0.0",""
